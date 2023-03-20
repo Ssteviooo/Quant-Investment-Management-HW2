@@ -1,0 +1,4 @@
+security_id,price,init_margin_frac,maint_margin_frac
+12345,32.15,1,0.75
+KO,58.15,0.4,0.25
+TWTR,68.22,0.5,0.4

@@ -1,0 +1,4 @@
+security_id,direction,quantity,average_price
+12345,buy,100,25.18
+TWTR,sell,200,64.18
+KO,buy,50,48.8
